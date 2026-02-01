@@ -32,7 +32,7 @@ export default function App() {
 
         {/* Decorative blur */}
         <div className="absolute -top-20 -right-20 w-40 h-40 bg-pink-400/40 rounded-full blur-3xl"></div>
-        <div className="absolute -bottom-20 -left-20 w-40 h-40 bg-indigo-400/40 rounded-full blur-3xl"></div>
+        
       </div>
     </div>
   );
